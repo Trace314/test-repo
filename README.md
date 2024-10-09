@@ -1,4 +1,4 @@
-# test-repo
+# traces-digital-resume
 This a digital resume repository for Capstone Design 1
 
 # paragraph
